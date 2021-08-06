@@ -5,3 +5,4 @@ date: 2014-07-15
 img: newbie.png
 alt: image-alt
 description: Here is a mascot I created for a marketing campaign
+---
