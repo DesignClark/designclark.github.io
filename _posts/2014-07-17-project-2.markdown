@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: logos.png
+img: winelogos
 alt: image-alt
 description: Here are the logos I created for the wine companies.
 ---
